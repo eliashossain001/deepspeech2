@@ -66,6 +66,9 @@ python inference.py
 
 ---
 
-## 📧 Contact
+## 👨‍💼 Author
 
-For questions or collaboration, feel free to reach out via GitHub or email.
+**Elias Hossain** <br>
+_Machine Learning Researcher | PhD in Progress | AI x Reasoning Enthusiast_
+
+[![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
